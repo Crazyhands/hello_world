@@ -1,3 +1,2 @@
 # hello_world
-Start
-a beginner in github
+new on github
